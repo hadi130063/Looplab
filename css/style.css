@@ -1,0 +1,107 @@
+.icon-area ul{
+    list-style: none;
+    
+}
+.icon-area ul li{
+    display: inline-block;
+}
+.icon-area ul li a{
+    background: #1094F4;
+    color: #fff; 
+    text-decoration: none;
+    font-size: 40px;
+    padding: 27px 37px;
+    display: block;
+}
+.icon-area ul li a:hover{
+
+background: #FFE597;
+
+}
+
+
+.icon-area-2 ul{
+    list-style: none;
+    
+}
+.icon-area-2 ul li{
+    display: inline-block;
+}
+.icon-area-2 ul li a{
+    background: #CD02BE;
+    color: #23A265; 
+    text-decoration: none;
+    font-size: 40px;
+    padding: 27px 37px;
+    display: block;
+}
+.icon-area-2 ul li a:hover{
+
+background: #57e7a8;
+}
+
+
+
+.icon-area-3 ul{
+    list-style: none;
+    
+}
+.icon-area-3 ul li{
+    display: inline-block;
+}
+.icon-area-3 ul li a{
+    background: #B00EEB;
+    color: #fff; 
+    text-decoration: none;
+    font-size: 40px;
+    padding: 27px 37px;
+    display: block;
+}
+.icon-area-3 ul li a:hover{
+
+background: #72793B;
+
+}
+
+
+.icon-area-4 ul{
+    list-style: none;
+    
+}
+.icon-area-4 ul li{
+    display: inline-block;
+}
+.icon-area-4 ul li a{
+    background: #4B3A28;
+    color: #F8E473; 
+    text-decoration: none;
+    font-size: 40px;
+    padding: 27px 37px;
+    display: block;
+}
+.icon-area-4 ul li a:hover{
+
+background: #0017F9;
+
+}
+
+.icon-area-5 ul{
+    list-style: none;
+    
+}
+.icon-area-5 ul li{
+    display: inline-block;
+}
+.icon-area-5 ul li a{
+    background: #51C878;
+    color: #554B4A; 
+    text-decoration: none;
+    font-size: 40px;
+    padding: 27px 37px;
+    display: block;
+}
+.icon-area-5 ul li a:hover{
+
+background: #800001;
+
+}
