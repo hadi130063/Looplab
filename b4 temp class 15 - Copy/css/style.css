@@ -1,0 +1,38 @@
+body{
+    background: #333;
+    color: #fff;
+}
+.navbar{
+    border-bottom: 3px solid #1175A7;
+    background: #383837;
+    opacity: .7;
+}
+
+#home-section{
+    background: url("../img/hadi4.gif") no-repeat center;
+    
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#home-section .dark-overlay{
+    background: rgba( 0, 0, 0, 0.7);
+    min-height: 500px;
+}
+
+#home-section .home-inner{
+    padding-top: 150px;
+    padding-bottom: 50px;
+
+}
+#home-section .fa{
+    background: #fff;
+    color: blue;
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 5px;
+
+
+}
+
